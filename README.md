@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/Kamisato520">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=620&lines=Hi%2C+I'm+Kamisato520.;Multimodal+AI+Researcher.;Post-training+%26+Data+Evolution.;Building+DataEvolver." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=620&lines=Hi%2C+I'm+Qisong+Zhang.;Multimodal+AI+Researcher.;Post-training+%26+Data+Evolution.;Building+DataEvolver." alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -73,6 +73,26 @@
 
 ---
 
+### 📄 Selected Publications & Manuscripts
+
+* **DataEvolver: Let Your Data Build and Improve Itself via Goal-Driven Loop Agents**  
+  **Qisong Zhang***, Wenzhuo Wu*, Zhuangzhuang Jia, Yunhao Yang, Shuo Zhang, Huayu Zhang, Xianghao Zang, Zhixiang He, Zhongjiang He, Kongming Liang, Zhanyu Ma  
+  *arXiv:2605.01789*, 2026 (`* Equal contribution`)  
+  [ [arXiv](https://arxiv.org/abs/2605.01789) ] · [ [Code](https://github.com/PRIS-CV/DataEvolver) ] · [ [Project Page](https://pris-cv.github.io/DataEvolver/) ] · [ [OpenReview](https://openreview.net/forum?id=8ppusILCIH) ]
+
+* **Panel2Page: Structured Visual Narrative Generation with Omni-Panel Alignment**  
+  Shuo Zhang, **Qisong Zhang**, LanXiang Zhou, Huayu Zhang, Xianghao Zang, Zhixiang He, Kongming Liang, Zhanyu Ma  
+  *AAAI 2027*  
+  [ [OpenReview](https://openreview.net/forum?id=oVLrUiY4wY) ]
+
+* **GeoEdit++: Learning Residual-Conditioned Rotation References for Geometric Image Editing**  
+  Co-author (2nd Author: **Qisong Zhang**)  
+  *IEEE Transactions on Multimedia (TMM)*
+
+<br/>
+
+---
+
 ### 📈 GitHub Activity
 
 <div align="center">
@@ -92,5 +112,5 @@
 <br/>
 
 <div align="center">
-  <sub>Designed with research rigor & minimal aesthetics • <a href="https://github.com/Kamisato520">Kamisato520</a></sub>
+  <sub>Designed with research rigor & minimal aesthetics • <a href="https://github.com/Kamisato520">Qisong Zhang</a></sub>
 </div>
