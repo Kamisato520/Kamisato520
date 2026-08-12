@@ -80,10 +80,10 @@
   *arXiv:2605.01789*, 2026 (`* Equal contribution`)  
   [ [arXiv](https://arxiv.org/abs/2605.01789) ] · [ [Code](https://github.com/PRIS-CV/DataEvolver) ] · [ [Project Page](https://pris-cv.github.io/DataEvolver/) ] · [ [OpenReview](https://openreview.net/forum?id=8ppusILCIH) ]
 
-* **Panel2Page: Structured Visual Narrative Generation with Omni-Panel Alignment**  
-  Shuo Zhang, **Qisong Zhang**, LanXiang Zhou, Huayu Zhang, Xianghao Zang, Zhixiang He, Kongming Liang, Zhanyu Ma  
-  *AAAI 2027*  
-  [ [OpenReview](https://openreview.net/forum?id=oVLrUiY4wY) ]
+* **Traj-MCPO: Trajectory-wise Marginal-Consistent Policy Optimization**  
+  *ACM MM 2026* (Accepted)  
+  [ [Code](https://github.com/Kamisato520/Traj-MCPO-Trajectory-wise-Marginal-Consistent-Policy-Optimization) ]  
+  *A trajectory-wise policy optimization framework for stable RL post-training of rectified-flow text-to-image models.*
 
 * **GeoEdit++: Learning Residual-Conditioned Rotation References for Geometric Image Editing**  
   Co-author (2nd Author: **Qisong Zhang**)  
