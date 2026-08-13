@@ -182,7 +182,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamisato520&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Kamisato520 Stats" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamisato520&theme=transparent" alt="Kamisato520 Stats" height="150" />
 </div>
 
 <br/>
