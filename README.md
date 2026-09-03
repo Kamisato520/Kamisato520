@@ -130,12 +130,6 @@
   [ [Code](https://github.com/Kamisato520/Traj-MCPO-Trajectory-wise-Marginal-Consistent-Policy-Optimization) ]  
   *A trajectory-wise policy optimization framework for stable RL post-training of rectified-flow text-to-image models.（面向 Rectified-Flow 文生图模型的轨迹级边际一致性策略优化。）*
 
-* **Panel2Page: Structured Visual Narrative Generation with Omni-Panel Alignment**  
-  Shuo Zhang, **Qisong Zhang**, LanXiang Zhou, Huayu Zhang, Xianghao Zang, Zhixiang He, Kongming Liang, Zhanyu Ma  
-  *AAAI 2027* (Under Review 在审) · Second author 第二作者  
-  [ [OpenReview](https://openreview.net/forum?id=oVLrUiY4wY) ]  
-  *Two-stage comic-page generation: page-level SFT + hierarchical Omni-Panel Alignment.（两阶段漫画单页生成框架：页面级 SFT + Omni-Panel 层次化语义对齐。）*
-
 * **GeoEdit++: Learning Residual-Conditioned Rotation References for Geometric Image Editing**  
   **Qisong Zhang** et al.  
   *IEEE Transactions on Multimedia* (Under Review 在审) · Co-author 共同作者  
